@@ -1,6 +1,9 @@
 # Min elevprofil
 
-Namn: Fyll i ditt namn här
+Namn: Ionut-Catalin Luca
 
-Det här vill jag lära mig om Git:
-Skriv en mening här.
+Junior fullstackutvecklare, hungrig på ny kunskap.
+
+## Det här vill jag lära mig
+
+Jag vill bli starkare på Git i vardagen (branch, commit, push/pull) och samtidigt växa mot en mer senior roll — bättre design, arkitekturbeslut och helhet från krav till produktion.
