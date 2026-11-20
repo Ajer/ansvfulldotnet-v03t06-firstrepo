@@ -1,6 +1,6 @@
 # Min elevprofil
 
-Namn: Reza A
+Namn:
 
 Det här vill jag lära mig om Git:
 Skriv en mening här.
